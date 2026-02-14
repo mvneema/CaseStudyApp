@@ -149,8 +149,8 @@ I'm a Senior BI/Analytics professional with expertise in:
 - Product Analytics
 - Data Storytelling
 
-**Portfolio**: [Your portfolio link](https://neema-madayi-veetil-o7wk4b5.gamma.site)  
-**LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/neema-mv/)  
+**Portfolio**: [My Portfolio link](https://neema-madayi-veetil-o7wk4b5.gamma.site)  
+**LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/neema-mv/)  
 
 ## 🙏 Acknowledgments
 
