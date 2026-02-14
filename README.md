@@ -58,29 +58,29 @@ The tool analyzes your responses and provides personalized feedback on:
 
 ## 🚀 Live Demo
 
-Try it yourself: [Your Streamlit Cloud URL]
+Try it yourself: [Your Streamlit Cloud URL](https://casestudyapp-nnnchwggas6plbkcjwsdqp.streamlit.app)
 
 ## 📸 Screenshots
 
-   ### Homepage
-   ![Homepage](screenshot-home.jpeg)
-   *Browse three complete case studies across different analytics domains*
+### Homepage
+![Homepage](screenshot-home.jpeg)
+*Browse three complete case studies across different analytics domains*
 
-   ### Practice Mode
-   ![Practice Mode](screenshot-practice.jpeg)
-   *Interactive practice with timed questions and hints*
+### Practice Mode
+![Practice Mode](screenshot-practice.jpeg)
+*Interactive practice with timed questions and hints*
 
-   ### Smart Feedback
-   ![Feedback](screenshot-review.jpeg)
-   *Personalized feedback based on your actual responses*
+### Smart Feedback
+![Feedback](screenshot-review.jpeg)
+*Personalized feedback based on your actual responses*
 
-   ### Complete Solutions
-   ![Solutions](screenshot-solution.jpeg)
-   *Detailed solutions with frameworks and SQL queries*
+### Complete Solutions
+![Solutions](screenshot-solution.jpeg)
+*Detailed solutions with frameworks and SQL queries*
 
-   ### Framework Cheat Sheets
-   ![Framework Cheat Sheets](screenshot-frameworks.jpeg)
-   *Frameworks Cheat Sheet to learns*
+### Framework Cheat Sheets
+![Framework Cheat Sheets](screenshot-frameworks.jpeg)
+*Frameworks Cheat Sheet to learns*
    
 ## 💻 Local Installation
 
