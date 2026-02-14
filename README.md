@@ -58,7 +58,7 @@ The tool analyzes your responses and provides personalized feedback on:
 
 ## 🚀 Live Demo
 
-Try it yourself: [Your Streamlit Cloud URL](https://casestudyapp-nnnchwggas6plbkcjwsdqp.streamlit.app)
+Try it yourself: https://casestudyapp-nnnchwggas6plbkcjwsdqp.streamlit.app
 
 ## 📸 Screenshots
 
